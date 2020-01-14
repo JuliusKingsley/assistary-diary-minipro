@@ -1,0 +1,4 @@
+<!--pages/api/api.wxml-->
+
+<button bindtap="test">测试消息</button>
+<button bindtap="login">登录</button>
